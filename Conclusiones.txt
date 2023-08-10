@@ -1,0 +1,2 @@
+- Al realizar el flujo de compra no se encontraron contratiempos para finalizarlo. 
+- Al realizar el flujo de compra los campos del formulario no estan controlados la información que se ingresa.
